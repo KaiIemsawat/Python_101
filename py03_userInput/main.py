@@ -5,7 +5,7 @@
 # print(f"Hello {name}");
 # print(f"You are {age} years old");
 
-adjective1  = input("Enter an adjective : ");
+adjective1 = input("Enter an adjective : ");
 noun = input("Enter a noun : ");
 adjective2 = input("Enter an adjective : ");
 verb = input("Enter a verb : ");
